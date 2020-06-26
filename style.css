@@ -1,0 +1,11 @@
+.card-body{
+    background-color: blue;
+    text-align: center;
+    font-size:80px;
+    color: #111;
+    margin: 15px;
+}
+.container{
+    border-style: solid;
+    border-color: #111;
+}
