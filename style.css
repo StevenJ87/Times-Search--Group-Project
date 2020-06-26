@@ -1,11 +1,24 @@
-.card-body{
-    background-color: blue;
+body{
+    background-color: #ffffff;
+}
+
+.header{
+    background-color: #14213d;
     text-align: center;
     font-size:80px;
-    color: #111;
+    color: #ffffff;
     margin: 15px;
 }
+
 .container{
     border-style: solid;
-    border-color: #111;
+    border-color: #e5e5e5;
+    padding: 5px;
+    background-color: #fff;
+}
+.input-header{
+    background-color: e5e5e5;
+    font-weight: bold;
+    border-bottom: solid 2px darkslategrey;
+    
 }
