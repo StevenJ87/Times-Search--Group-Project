@@ -1,0 +1,1 @@
+Working in a group to create a New York Times article search
