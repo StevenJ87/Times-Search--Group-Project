@@ -20,5 +20,13 @@ body{
     background-color: e5e5e5;
     font-weight: bold;
     border-bottom: solid 2px darkslategrey;
-    
+}
+
+.results-header{
+    background-color: e5e5e5;
+    font-weight: bold;
+    border-bottom: solid 2px darkslategrey;
+}
+.results{
+    margin-top: 20px;
 }
